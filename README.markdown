@@ -57,5 +57,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.markdown) to add datasets, models, or visuali
 ## License
 MIT License. See [LICENSE](LICENSE).
 
-## Contact
-Open an Issue or join Discussions on [GitHub](https://github.com/egkhor/random-forest-chip-design).
