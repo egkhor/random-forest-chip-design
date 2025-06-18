@@ -11,7 +11,6 @@ We welcome contributions to enhance this ML project for chip design defect predi
 2. Branch: `git checkout -b feature/your-feature`.
 3. Commit: `git commit -m "Add your feature"`.
 4. Push and open a pull request.
-5. Join Discussions: [GitHub Discussions](https://github.com/egkhor/random-forest-chip-design/discussions).
 
 ## Guidelines
 - Document code clearly.
